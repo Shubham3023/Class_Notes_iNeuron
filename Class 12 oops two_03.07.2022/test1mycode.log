@@ -1,0 +1,17 @@
+INFO 2022-07-04 15:04:08,973 this is logging test
+INFO 2022-07-04 15:20:50,515 this is logging test
+INFO 2022-07-04 15:38:19,902 this is logging test
+INFO 2022-07-06 17:24:48,540 this is logging test
+INFO 2022-07-06 17:24:48,555 this is my module
+INFO 2022-07-06 17:25:22,288 this is logging test
+INFO 2022-07-06 17:25:22,303 this is my module
+INFO 2022-07-06 17:25:46,097 this is logging test
+INFO 2022-07-06 17:25:46,097 this is my module
+INFO 2022-07-06 17:26:48,061 this is logging test
+INFO 2022-07-06 17:26:48,061 this is my module
+INFO 2022-07-06 17:37:28,309 this is logging test
+INFO 2022-07-06 17:37:28,325 this is my module
+INFO 2022-07-06 17:39:01,418 this is logging test
+INFO 2022-07-06 17:39:01,418 this is my module
+INFO 2022-07-06 17:39:01,418 i have imported person2 from utils utilsmycode
+INFO 2022-07-06 17:39:01,418 i have used age_calculator
