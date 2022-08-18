@@ -1,0 +1,23 @@
+INFO 2022-06-29 21:56:39,297 root  The number entered by user is 3 and 6 
+INFO 2022-06-29 22:04:08,385 root  The number entered by user is 3 and 6 
+INFO 2022-06-29 22:04:08,385 root  we are into function 
+INFO 2022-06-29 22:04:08,386 root  we have completed a division operation 
+INFO 2022-06-29 22:04:50,313 root  The number entered by user is 3 and 0 
+INFO 2022-06-29 22:04:50,314 root  we are into function 
+ERROR 2022-06-29 22:04:50,314 root  division by zero 
+Traceback (most recent call last):
+  File "C:/Users/Shubham/PycharmProjects/pythonProject29.06.2022/test3.py", line 8, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2022-06-29 22:08:40,489 root  The number entered by user is 3 and 7 
+INFO 2022-06-29 22:08:40,492 root  we are into function 
+INFO 2022-06-29 22:08:40,492 root  we have completed a division operation 
+INFO 2022-06-29 22:08:40,492 root  result of code is 0.42857142857142855 
+INFO 2022-06-29 22:09:11,798 root  The number entered by user is 3 and 7 
+INFO 2022-06-29 22:09:11,799 root  we are into function 
+INFO 2022-06-29 22:09:11,800 root  we have completed a division operation 
+INFO 2022-06-29 22:09:11,800 root  result of code is 0.43 
+INFO 2022-06-30 11:14:59,884 root  The number entered by user is 3 and 7 
+INFO 2022-06-30 11:14:59,894 root  we are into function 
+INFO 2022-06-30 11:14:59,894 root  we have completed a division operation 
+INFO 2022-06-30 11:14:59,894 root  result of code is 0.43 

@@ -1,0 +1,13 @@
+INFO 2022-06-30 11:23:43,428 root we have entered into the function
+INFO 2022-06-30 11:23:43,428 root the entered vale by user is 3 and 4
+INFO 2022-06-30 11:23:43,428 root we have completed division operation
+INFO 2022-06-30 11:23:43,428 root the result of division is 0.75
+INFO 2022-06-30 11:24:21,487 root we have entered into the function
+INFO 2022-06-30 11:24:21,487 root the entered vale by user is 3 and 0
+ERROR 2022-06-30 11:24:21,487 root division by zero
+Traceback (most recent call last):
+  File "C:/Users/Shubham/PycharmProjects/pythonProject29.06.2022/mytest3.py", line 8, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2022-06-30 11:24:21,487 root The below log is of error and above log is of exception
+ERROR 2022-06-30 11:24:21,495 root division by zero

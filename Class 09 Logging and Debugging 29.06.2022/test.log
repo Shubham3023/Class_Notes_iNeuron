@@ -1,0 +1,22 @@
+INFO:root:this is my very first code for logging
+INFO:root:this is my very first code for logging
+INFO:root:2
+INFO:root:this is my very first code for logging
+INFO:root:[1, 2, 3, 4, 5, 6]
+INFO:root:this is my very first code for logging
+WARNING:root:This will try to load warning message
+INFO:root:[1, 2, 3, 4, 5, 6]
+INFO:root:this is my very first code for logging
+WARNING:root:This will try to load warning message
+INFO:root:[1, 2, 3, 4, 5, 6]
+WARNING:root:this is a warning for user that they have found out 2 in list
+INFO:root:this is my very first code for logging
+WARNING:root:This will try to load warning message
+ERROR:root:this is a error message from system
+INFO:root:[1, 2, 3, 4, 5, 6]
+WARNING:root:this is a warning for user that they have found out 2 in list
+INFO:root:this is my very first code for logging
+WARNING:root:This will try to load warning message
+ERROR:root:this is a error message from system
+INFO:root:[1, 2, 3, 4, 5, 6]
+WARNING:root:this is a warning for user that they have found out 2 in list

@@ -1,0 +1,21 @@
+INFO:root:we have entered in for loop
+INFO:root:1
+INFO:root:we have entered in for loop
+INFO:root:2
+INFO:root:we have entered in for loop
+INFO:root:3
+INFO:root:we have entered in for loop
+INFO:root:4
+INFO:root:we have entered in for loop
+INFO:root:5
+INFO:root:we have entered in for loop
+INFO:root:1
+INFO:root:we have entered in for loop
+INFO:root:2
+INFO:root:we have entered in for loop
+INFO:root:3
+INFO:root:we have entered in for loop
+INFO:root:4
+INFO:root:we have entered in for loop
+INFO:root:5
+WARNING:root:for loop has executed
