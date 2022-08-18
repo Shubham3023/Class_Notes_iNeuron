@@ -1,0 +1,29 @@
+INFO 2022-07-04 13:14:07,875 root this is my logging initialisation
+INFO 2022-07-04 13:18:01,045 root this is my logging initialisation
+INFO 2022-07-04 13:18:01,045 root this is my class Person
+INFO 2022-07-04 13:18:04,047 root this is my logging initialisation
+INFO 2022-07-04 13:18:04,047 root this is my class Person
+INFO 2022-07-04 13:24:01,324 root this is my logging initialisation
+INFO 2022-07-04 13:24:01,340 root this is my class Person
+INFO 2022-07-04 13:26:45,458 root this is my logging initialisation
+INFO 2022-07-04 13:26:45,458 root this is my class Person
+INFO 2022-07-04 13:26:45,458 root your age is 13
+INFO 2022-07-04 13:27:04,339 root this is my logging initialisation
+INFO 2022-07-04 13:27:04,339 root this is my class Person
+INFO 2022-07-04 13:27:04,339 root your age is 18
+INFO 2022-07-04 13:42:59,514 root this is my logging initialisation
+INFO 2022-07-04 13:42:59,514 root this is my class Person
+INFO 2022-07-04 13:42:59,514 root your age is 18
+INFO 2022-07-04 13:43:14,733 root your username is: shubhamverma30999
+INFO 2022-07-04 13:43:55,740 root this is my logging initialisation
+INFO 2022-07-04 13:43:55,740 root this is my class Person
+INFO 2022-07-04 13:43:55,740 root your age is 18
+INFO 2022-07-04 13:44:06,122 root your username is: shubhamverma9999
+INFO 2022-07-04 13:44:35,856 root this is my logging initialisation
+INFO 2022-07-04 13:44:35,856 root this is my class Person
+INFO 2022-07-04 13:44:35,856 root your age is 18
+INFO 2022-07-04 13:44:47,643 root your username is: shubhamverma89898
+INFO 2022-07-04 13:46:52,399 root this is my logging initialisation
+INFO 2022-07-04 13:46:52,399 root this is my class Person
+INFO 2022-07-04 13:46:52,399 root your age is 18
+INFO 2022-07-04 13:47:11,092 root your username is: anujverma
